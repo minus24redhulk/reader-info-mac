@@ -1,0 +1,2 @@
+# reader-info-mac
+reader
